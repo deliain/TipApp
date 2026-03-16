@@ -30,7 +30,8 @@ Each person pays: €55
 
 ## Tech Stack
 
-- Java / Kotlin
+- Kotlin
+- Jetpack Compose
 - Android SDK
 - Android Studio
 
